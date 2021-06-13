@@ -1,22 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Problem 1</title>
+<title>Problem-1</title>
 </head>
 <body>
 "A quick brown
 <b>
 <?php
-$a = "fox";
-$b = "dog";
-echo $a ;
+$x = "fox";
+echo $x ;
 ?>
 </b>
-jumps over the lazy 
+jumps over the lazy
 <b>
 <?php
-$b = "dog";
-echo $a ;
+$y = "dog";
+echo $y ;
 ?>
 </b>
 "

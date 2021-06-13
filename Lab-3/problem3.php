@@ -3,18 +3,18 @@
 <title>Problem 3</title>
 </head>
 <body>
-    Perimeter = 
+Perimeter =
 <?php
-	$length = 15;
-	$width = 20;
-	$p = 2*($length+$width);
-	print $p;
+    $length=20;
+    $width = 30;
+    $perimeter = 2*($length+$width);
+    print $perimeter;
 ?>
-<br>Area = 
+<br>Area =
 <?php
-	$length = 15;
-	$width = 20;
-	$area = $length*$width;
+    $length=20;
+    $width = 30;
+    $area = $length*$width;
     print $area;
 ?>
 </body>
